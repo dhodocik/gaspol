@@ -1,0 +1,2 @@
+# gaspol
+gaspol la intinyo
